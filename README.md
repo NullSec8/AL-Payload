@@ -30,7 +30,8 @@ Works best on **Linux (Kali)**.
 
 ```bash
 git clone https://github.com/NullSec8/al-payload.git
-cd alpayload.py
+cd al-payload
+
 
 Or download the .zip and extract.
 Step 2: Install Requirements

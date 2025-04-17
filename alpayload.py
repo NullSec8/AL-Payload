@@ -74,7 +74,7 @@ def banner():
     clear()
     f = Figlet(font='slant')
     print(colored(f.renderText('AL-Payload Tool'), 'red'))
-    print(colored("     Hacker Swiss Knife - Coded by AL-Payload", 'yellow'))
+    print(colored("     Hacker Swiss Knife - Coded by NullSec8", 'yellow'))
     print(colored("     -------------------------------\n", 'cyan'))
 
 def disclaimer_warning():

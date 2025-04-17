@@ -1,0 +1,23 @@
+pyfiglet
+termcolor
+colorama
+tqdm
+requests
+
+  What Each Package Does:
+
+    pyfiglet – Generates ASCII art banners
+
+    termcolor – Adds color to terminal output
+
+    colorama – Ensures color support across platforms (especially on Windows)
+
+    tqdm – Displays progress bars for loops and processes
+
+    requests – Handles HTTP requests (used for getting public IP, etc.)
+
+📦 How to Install
+
+After cloning the repo, just run:
+
+pip3 install -r requirements.txt

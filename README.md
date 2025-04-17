@@ -73,7 +73,7 @@ If you’ve got physical access, you can copy the payload to a USB and run it di
 
 Launch the tool:
 
-python3 al_payload.py
+python3 alpayload.py
 
 Main options:
 
